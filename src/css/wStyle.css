@@ -1,0 +1,70 @@
+@font-face {
+    font-family: Arthura-Thin;
+    src: url(/src/font/Arthura-Thin.ttf)
+}
+
+body {
+
+    font-family: Arthura-Thin;
+
+}
+
+.imgTop {
+    background-image: url(/src/img/vaga-para-financeiro.jpg);
+    background-color: #cccccc;
+    height: 150px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.negrito{
+
+    font-weight: bold;
+}
+
+.artigos {
+
+    height: 220px;
+    font-size: smaller
+}
+
+.icone {
+    margin: auto;
+
+    height: 90px;
+    width: 90px;
+    
+
+
+
+}
+
+#ico1 {
+
+    background-image: url(/src/img/577e9d5e-e8f0-48ed-8dcf-8bc778914248.jfif);
+    background-position: -8px -19px;
+    background-repeat: no-repeat;
+    background-size: 17rem 10rem;
+}
+
+#ico2 {
+
+    background-image: url(/src/img/927eb81f-96fa-4333-9dd5-eac154e18005.jfif);
+    background-position: -11px -11px;
+    background-repeat: no-repeat;
+    background-size: 17rem 10rem;
+
+
+}
+
+#ico3 {
+
+    background-image: url(/src/img/ca612874-166d-4556-aae8-807d6b90a4ac.jfif);
+    background-position: -11px -11px;
+    background-repeat: no-repeat;
+    background-size: 17rem 10rem;
+    
+
+}
